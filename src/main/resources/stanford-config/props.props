@@ -1,0 +1,11 @@
+sighanCorporaDict=P:/kmerit/itongye/web_main/dal/edu/stanford/nlp/models/segmenter/chinese
+
+serDictionary=P:/kmerit/itongye/web_main/dal/edu/stanford/nlp/models/segmenter/chinese/dict-chris6.ser.gz,\
+  P:/kmerit/itongye/web_main/dal/stanford-ner-2018-10-16/dict/dict.txt,P:/kmerit/itongye/web_main/dal/stanford-ner-2018-10-16/dict/china_area.txt
+
+inputEncoding=UTF-8
+sighanPostProcessing=true
+
+# 测试文件
+testFile=P:/kmerit/itongye/web_main/dal/stanford-ner-2018-10-16/dict/test.simp.utf8
+
